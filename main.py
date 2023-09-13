@@ -10,4 +10,5 @@ elif escolha == 4:
     print('Voce deseja trocar a medida da Moeda.')
 else:
     print('Escolha errada, nao há essa opcao')
+print("A sua escolha foi errada")
      
