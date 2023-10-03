@@ -12,3 +12,7 @@ else:
     print('Escolha errada, nao há essa opcao')
 print("A sua escolha foi errada")
      
+n1 = input("escolha")
+
+while n1 is not 8:
+    print("wrong")
